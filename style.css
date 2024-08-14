@@ -1,9 +1,9 @@
 html   {
-    height: 100%
+    height: 119%
 }
 
 body{
-    background: linear-gradient(#27778f, #000000);
+    background: linear-gradient(#bac6ee, #003ab6);
 }
 
 .titulo {
@@ -20,4 +20,42 @@ body{
     align-items: center; 
     padding: 80px ;
     font-size: 180% 
+}
+.angelo {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 130% 
+}
+.miguel {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 130% 
+}
+.joy{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 130% 
+}
+.greice{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 130% 
+}
+.sobre-video{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 130%;
+    padding: 80px ;
+}
+.roteiro{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 130%;
+    padding: 80px ;
 }
