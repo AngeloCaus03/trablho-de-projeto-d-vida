@@ -1,5 +1,5 @@
 html   {
-    height: 119%
+    height: 200%
 }
 
 body{
@@ -59,3 +59,11 @@ body{
     font-size: 130%;
     padding: 80px ;
 }
+.video{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 80px ;
+    width: 50%;
+}
+
